@@ -1,2 +1,2 @@
 # openCv-with-python
-Basic topics are describes here with coding
+All stuffs are related to image processing
